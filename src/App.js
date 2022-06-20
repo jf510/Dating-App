@@ -1,4 +1,5 @@
 import "./App.css";
+import Cards from "./Cards";
 import Header from "./components/Header";
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
       <Header />
 
       {/* Profle Cards */}
+      <Cards />
 
       {/* Swipe Buttons */}
     </div>
